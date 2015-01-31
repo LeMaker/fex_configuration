@@ -264,7 +264,7 @@ full_duplex = 0
 manual_cs = 0
 
 [ctp_para]
-ctp_used = 0
+ctp_used = 1
 ctp_name = "ft5x_ts"
 ctp_twi_id = 3
 ctp_twi_addr = 0x38
@@ -279,7 +279,7 @@ ctp_wakeup = port:PH07<1><default><default><1>
 ctp_io_port = port:PH09<0><default><default><default>
 
 [ctp_list_para]
-ctp_det_used = 0
+ctp_det_used = 1
 ft5x_ts = 1
 gt82x = 0
 gslX680 = 0
