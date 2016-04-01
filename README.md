@@ -11,6 +11,7 @@ bin directory: this directory contains the compiled bin file, you can use it dir
 banana_pro_35lcd.bin is the configuration file for LeMaker 3.5 inch RGB LCD to make it work on Banana Pro. <br />
 banana_pro_5lcd.bin is the configuration file for LeMaker 5.0 inch RGB LCD to make it work on Banana Pro. <br />
 banana_pro_7lcd.bin is the configuration file for LeMaker 7.0 inch LVDS LCD to make it work on Banana Pro. <br />
+banana_pro_10.1lcd.bin is the configuration file for LeMaker 10.1 inch LVDS LCD to make it work on Banana Pro. <br />
 banana_pi_35lcd.bin is the configuration file for LeMaker 3.5 inch RGB LCD to make it work on Banana Pi. <br />
 banana_pi_5lcd.bin is the configuration file for LeMaker 5.0 inch RGB LCD to make it work on Banana Pi. <br />
 banana_pi_7lcd.bin is the configuration file for LeMaker 7.0 inch LVDS LCD to make it work on Banana Pi. <br />
